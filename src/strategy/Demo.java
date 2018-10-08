@@ -1,7 +1,7 @@
-package decorator;
+package strategy;
 
-import decorator.flying.CanFly;
-import decorator.flying.flyingInterface;
+import strategy.flying.CanFly;
+import strategy.flying.flyingInterface;
 
 public abstract class Demo extends Duck {
     public static void main(String[] args) {

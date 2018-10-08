@@ -1,4 +1,4 @@
-package decorator.flying;
+package strategy.flying;
 
 public class CanFly implements flyingInterface {
 

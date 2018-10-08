@@ -1,7 +1,7 @@
-package decorator;
+package strategy;
 
-import decorator.flying.CanFly;
-import decorator.quacking.Quack;
+import strategy.flying.CanFly;
+import strategy.quacking.Quack;
 
 public class MallardDuck extends Duck{
 public MallardDuck(){

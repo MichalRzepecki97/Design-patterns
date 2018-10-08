@@ -1,7 +1,7 @@
-package decorator;
+package strategy;
 
-import decorator.flying.CantFly;
-import decorator.quacking.CantQuack;
+import strategy.flying.CantFly;
+import strategy.quacking.CantQuack;
 
 public class ModelDuck extends  Duck {
 

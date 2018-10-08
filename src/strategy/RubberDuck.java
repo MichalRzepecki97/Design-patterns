@@ -1,7 +1,7 @@
-package decorator;
+package strategy;
 
-import decorator.flying.CantFly;
-import decorator.quacking.Squeak;
+import strategy.flying.CantFly;
+import strategy.quacking.Squeak;
 
 public class RubberDuck extends Duck {
 

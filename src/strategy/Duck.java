@@ -1,7 +1,7 @@
-package decorator;
+package strategy;
 
-import decorator.flying.flyingInterface;
-import decorator.quacking.QuackingInterface;
+import strategy.flying.flyingInterface;
+import strategy.quacking.QuackingInterface;
 
 public abstract class Duck {
     protected flyingInterface fly;

@@ -1,4 +1,4 @@
-package decorator.quacking;
+package strategy.quacking;
 
 public class Quack implements QuackingInterface{
 
